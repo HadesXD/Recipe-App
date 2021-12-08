@@ -129,7 +129,7 @@ header button {
     position: relative;
 }
 
-.meal-header .random {
+.meal-header .meal-id {
     position: absolute;
     top: 10px;
     background-color: #fff;
